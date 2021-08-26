@@ -1,0 +1,12 @@
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\bin\Debug\netcoreapp3.1\UserRegistrationReflection.exe
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\bin\Debug\netcoreapp3.1\UserRegistrationReflection.deps.json
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\bin\Debug\netcoreapp3.1\UserRegistrationReflection.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\bin\Debug\netcoreapp3.1\UserRegistrationReflection.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\bin\Debug\netcoreapp3.1\UserRegistrationReflection.dll
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\bin\Debug\netcoreapp3.1\UserRegistrationReflection.pdb
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\obj\Debug\netcoreapp3.1\UserRegistrationReflection.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\obj\Debug\netcoreapp3.1\UserRegistrationReflection.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\obj\Debug\netcoreapp3.1\UserRegistrationReflection.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\obj\Debug\netcoreapp3.1\UserRegistrationReflection.dll
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\obj\Debug\netcoreapp3.1\UserRegistrationReflection.pdb
+C:\Users\ADVANCED\Desktop\Day 22 Assignment Problems\UserRegistration Reflection\UserRegistration Reflection\obj\Debug\netcoreapp3.1\UserRegistrationReflection.genruntimeconfig.cache
